@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\bin\Debug\net5.0\Q2.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\bin\Debug\net5.0\Q2.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\bin\Debug\net5.0\Q2.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\bin\Debug\net5.0\Q2.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\bin\Debug\net5.0\Q2.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\bin\Debug\net5.0\ref\Q2.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\bin\Debug\net5.0\Q2.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\Q2.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\Q2.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\Q2.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\Q2.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\Q2.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\ref\Q2.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\Q2.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\assignment3\Q2\obj\Debug\net5.0\Q2.genruntimeconfig.cache
