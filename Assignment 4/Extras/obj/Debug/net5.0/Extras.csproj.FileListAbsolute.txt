@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\bin\Debug\net5.0\Extras.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\bin\Debug\net5.0\Extras.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\bin\Debug\net5.0\Extras.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\bin\Debug\net5.0\Extras.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\bin\Debug\net5.0\Extras.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\bin\Debug\net5.0\ref\Extras.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\bin\Debug\net5.0\Extras.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\Extras.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\Extras.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\Extras.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\Extras.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\Extras.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\Extras.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\ref\Extras.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\Extras.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Extras\obj\Debug\net5.0\Extras.genruntimeconfig.cache

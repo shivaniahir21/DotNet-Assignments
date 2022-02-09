@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\bin\Debug\net5.0\Employee.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\bin\Debug\net5.0\Employee.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\bin\Debug\net5.0\Employee.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\bin\Debug\net5.0\Employee.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\bin\Debug\net5.0\Employee.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\bin\Debug\net5.0\ref\Employee.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\bin\Debug\net5.0\Employee.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\Employee.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\Employee.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\ref\Employee.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\Employee.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Employee\obj\Debug\net5.0\Employee.genruntimeconfig.cache

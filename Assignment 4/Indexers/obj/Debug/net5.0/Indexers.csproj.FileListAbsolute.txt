@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\bin\Debug\net5.0\Indexers.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\bin\Debug\net5.0\Indexers.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\bin\Debug\net5.0\Indexers.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\bin\Debug\net5.0\Indexers.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\bin\Debug\net5.0\Indexers.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\bin\Debug\net5.0\ref\Indexers.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\bin\Debug\net5.0\Indexers.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\Indexers.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\Indexers.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\Indexers.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\Indexers.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\Indexers.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\ref\Indexers.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\Indexers.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment4\Indexers\obj\Debug\net5.0\Indexers.genruntimeconfig.cache
