@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\bin\Debug\net5.0\ObservableCollectionSample.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\bin\Debug\net5.0\ObservableCollectionSample.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\bin\Debug\net5.0\ObservableCollectionSample.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\bin\Debug\net5.0\ObservableCollectionSample.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\bin\Debug\net5.0\ObservableCollectionSample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\bin\Debug\net5.0\ref\ObservableCollectionSample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\bin\Debug\net5.0\ObservableCollectionSample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ObservableCollectionSample.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ObservableCollectionSample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ref\ObservableCollectionSample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ObservableCollectionSample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\ObservableCollectionSample\obj\Debug\net5.0\ObservableCollectionSample.genruntimeconfig.cache

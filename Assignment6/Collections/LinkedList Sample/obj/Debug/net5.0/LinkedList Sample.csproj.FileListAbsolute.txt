@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\LinkedList Sample.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\LinkedList Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\LinkedList Sample.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\LinkedList Sample.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\LinkedList Sample.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\bin\Debug\net5.0\LinkedList Sample.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\bin\Debug\net5.0\LinkedList Sample.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\bin\Debug\net5.0\LinkedList Sample.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\bin\Debug\net5.0\LinkedList Sample.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\bin\Debug\net5.0\LinkedList Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\bin\Debug\net5.0\ref\LinkedList Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\bin\Debug\net5.0\LinkedList Sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\LinkedList Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\ref\LinkedList Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\LinkedList Sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\LinkedList Sample\obj\Debug\net5.0\LinkedList Sample.genruntimeconfig.cache

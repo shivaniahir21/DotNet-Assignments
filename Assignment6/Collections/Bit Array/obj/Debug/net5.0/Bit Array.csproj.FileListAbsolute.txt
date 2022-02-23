@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\bin\Debug\net5.0\Bit Array.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\bin\Debug\net5.0\Bit Array.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\bin\Debug\net5.0\Bit Array.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\bin\Debug\net5.0\Bit Array.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\bin\Debug\net5.0\Bit Array.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\bin\Debug\net5.0\ref\Bit Array.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\bin\Debug\net5.0\Bit Array.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\Bit Array.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\Bit Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\Bit Array.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\Bit Array.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\Bit Array.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\Bit Array.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\ref\Bit Array.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\Bit Array.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Bit Array\obj\Debug\net5.0\Bit Array.genruntimeconfig.cache

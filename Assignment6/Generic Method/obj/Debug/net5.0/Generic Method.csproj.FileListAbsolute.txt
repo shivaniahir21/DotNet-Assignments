@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\bin\Debug\net5.0\Generic Method.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\bin\Debug\net5.0\Generic Method.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\bin\Debug\net5.0\Generic Method.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\bin\Debug\net5.0\Generic Method.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\bin\Debug\net5.0\Generic Method.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\bin\Debug\net5.0\ref\Generic Method.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\bin\Debug\net5.0\Generic Method.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\Generic Method.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\Generic Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\Generic Method.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\Generic Method.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\Generic Method.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\Generic Method.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\ref\Generic Method.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\Generic Method.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Generic Method\obj\Debug\net5.0\Generic Method.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\bin\Debug\net5.0\Set Sample.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\bin\Debug\net5.0\Set Sample.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\bin\Debug\net5.0\Set Sample.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\bin\Debug\net5.0\Set Sample.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\bin\Debug\net5.0\Set Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\bin\Debug\net5.0\ref\Set Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\bin\Debug\net5.0\Set Sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\Set Sample.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\Set Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\Set Sample.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\Set Sample.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\Set Sample.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\Set Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\ref\Set Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\Set Sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Set Sample\obj\Debug\net5.0\Set Sample.genruntimeconfig.cache

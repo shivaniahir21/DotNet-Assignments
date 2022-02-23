@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\bin\Debug\net5.0\Stack sample.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\bin\Debug\net5.0\Stack sample.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\bin\Debug\net5.0\Stack sample.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\bin\Debug\net5.0\Stack sample.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\bin\Debug\net5.0\Stack sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\bin\Debug\net5.0\ref\Stack sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\bin\Debug\net5.0\Stack sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\Stack sample.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\Stack sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\Stack sample.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\Stack sample.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\Stack sample.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\Stack sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\ref\Stack sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\Stack sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Stack Sample\obj\Debug\net5.0\Stack sample.genruntimeconfig.cache

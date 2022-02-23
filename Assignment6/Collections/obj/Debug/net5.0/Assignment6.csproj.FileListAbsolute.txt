@@ -1,0 +1,5 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\obj\Debug\net5.0\Assignment6.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\obj\Debug\net5.0\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\obj\Debug\net5.0\Assignment6.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\obj\Debug\net5.0\Assignment6.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\obj\Debug\net5.0\Assignment6.csproj.CoreCompileInputs.cache

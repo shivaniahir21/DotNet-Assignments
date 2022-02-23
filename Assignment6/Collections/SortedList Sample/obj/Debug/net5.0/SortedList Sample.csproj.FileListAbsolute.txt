@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\bin\Debug\net5.0\SortedList Sample.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\bin\Debug\net5.0\SortedList Sample.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\bin\Debug\net5.0\SortedList Sample.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\bin\Debug\net5.0\SortedList Sample.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\bin\Debug\net5.0\SortedList Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\bin\Debug\net5.0\ref\SortedList Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\bin\Debug\net5.0\SortedList Sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\SortedList Sample.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\SortedList Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\SortedList Sample.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\SortedList Sample.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\SortedList Sample.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\SortedList Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\ref\SortedList Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\SortedList Sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\SortedList Sample\obj\Debug\net5.0\SortedList Sample.genruntimeconfig.cache

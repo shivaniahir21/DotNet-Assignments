@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\bin\Debug\net5.0\lookup Sample.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\bin\Debug\net5.0\lookup Sample.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\bin\Debug\net5.0\lookup Sample.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\bin\Debug\net5.0\lookup Sample.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\bin\Debug\net5.0\lookup Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\bin\Debug\net5.0\ref\lookup Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\bin\Debug\net5.0\lookup Sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\lookup Sample.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\lookup Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\lookup Sample.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\lookup Sample.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\lookup Sample.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\lookup Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\ref\lookup Sample.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\lookup Sample.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\lookup Sample\obj\Debug\net5.0\lookup Sample.genruntimeconfig.cache

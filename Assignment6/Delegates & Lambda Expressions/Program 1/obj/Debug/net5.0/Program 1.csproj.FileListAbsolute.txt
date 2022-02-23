@@ -1,0 +1,16 @@
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\Program 1.csproj.AssemblyReference.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\Program 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\Program 1.AssemblyInfoInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\Program 1.AssemblyInfo.cs
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\Program 1.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\bin\Debug\net5.0\Program 1.exe
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\bin\Debug\net5.0\Program 1.deps.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\bin\Debug\net5.0\Program 1.runtimeconfig.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\bin\Debug\net5.0\Program 1.runtimeconfig.dev.json
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\bin\Debug\net5.0\Program 1.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\bin\Debug\net5.0\ref\Program 1.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\bin\Debug\net5.0\Program 1.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\Program 1.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\ref\Program 1.dll
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\Program 1.pdb
+D:\STUDY MATERIAL BE-SEM6\.NET\Assignment6\Delegates & Lambda Expressions\Program 1\obj\Debug\net5.0\Program 1.genruntimeconfig.cache
