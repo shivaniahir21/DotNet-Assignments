@@ -1,0 +1,15 @@
+D:\SHIVANI\Dotnet Practicals\customerLinq\bin\Debug\net6.0\customerLinq.exe
+D:\SHIVANI\Dotnet Practicals\customerLinq\bin\Debug\net6.0\customerLinq.deps.json
+D:\SHIVANI\Dotnet Practicals\customerLinq\bin\Debug\net6.0\customerLinq.runtimeconfig.json
+D:\SHIVANI\Dotnet Practicals\customerLinq\bin\Debug\net6.0\customerLinq.dll
+D:\SHIVANI\Dotnet Practicals\customerLinq\bin\Debug\net6.0\customerLinq.pdb
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\customerLinq.csproj.AssemblyReference.cache
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\customerLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\customerLinq.AssemblyInfoInputs.cache
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\customerLinq.AssemblyInfo.cs
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\customerLinq.csproj.CoreCompileInputs.cache
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\customerLinq.dll
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\refint\customerLinq.dll
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\customerLinq.pdb
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\customerLinq.genruntimeconfig.cache
+D:\SHIVANI\Dotnet Practicals\customerLinq\obj\Debug\net6.0\ref\customerLinq.dll
