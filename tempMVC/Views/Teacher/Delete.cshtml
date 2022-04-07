@@ -1,0 +1,80 @@
+﻿@model tempMVC.Models.Teacher
+
+<form method="post" asp-action="DeletePost">
+      <input asp-for="ID" hidden />
+    <input hidden asp-for="ID" />
+    <div class="border p-3 bg-white">
+        @*<div asp-validation-summary="ModelOnly" class="text-danger"></div>*@
+        <div class="form-group row">
+            <h2 class="text-info pl-3">Delete Teacher </h2>
+        </div>
+        <div class="row">
+            <div class="col-8">
+                <div class="form-group row py-2">
+                    <div class="col-4">
+                        <label asp-for="ID"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="ID" class="form-control" />
+                        <span asp-validation-for="ID" class="text-danger"></span>
+                    </div>
+
+                </div>
+                <div class="form-group row py-2">
+                    <div class="col-4">
+                        <label asp-for="name">Name</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="name" class="form-control" />
+                        <span asp-validation-for="name" class="text-danger"></span>
+                    </div>
+
+                </div>
+                <div class="form-group row py-2">
+                    <div class="col-4">
+                        <label asp-for="joindate">Joining Date</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="joindate" class="form-control" />
+                        <span asp-validation-for="joindate" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row py-2">
+                    <div class="col-4">
+                        <label asp-for="birthdate">Birth Date</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="birthdate" class="form-control" />
+                        <span asp-validation-for="birthdate" class="text-danger"></span>
+                    </div>
+
+                </div>
+                <div class="form-group row py-2">
+                    <div class="col-8 offset-4 row">
+
+                        <div class="col">
+                            <input type="submit" class="btn btn-info w-100" value="Delete Details" />
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success w-100"> Back</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                @* Keep this empty *@
+            </div>
+        </div>
+    </div>
+
+</form>
+
+
+@section Scripts{
+
+@{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+}
